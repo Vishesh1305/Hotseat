@@ -1,6 +1,6 @@
 # HotSeat
 
-A Who Wants to Be a Millionaire (Kaun Banega Crorepati) game engine in C++. Built around STL data structures — `std::map` for difficulty-bucketed question storage, `std::stack` for prize ladder progression, `std::vector` for sorted leaderboards — with file I/O, exception handling, and a Raylib graphical frontend.
+A Who Wants to Be a Millionaire (Kaun Banega Crorepati) game engine in C++. Built around STL data structures `std::map` for difficulty-bucketed question storage, `std::stack` for prize ladder progression, `std::vector` for sorted leaderboards with file I/O, exception handling, and a Raylib graphical frontend.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-17-blue) ![Raylib](https://img.shields.io/badge/Raylib-5.0-green) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
@@ -10,7 +10,7 @@ A Who Wants to Be a Millionaire (Kaun Banega Crorepati) game engine in C++. Buil
 
 A KBC/Millionaire game in C++ with Raylib graphics. Pick a game mode, answer 15 questions that get progressively harder, use lifelines when you're stuck, and try to make it to the top prize before you get knocked out. The game tracks stats across sessions, maintains a leaderboard, and supports multiple players.
 
-The look is modeled after Kaun Banega Crorepati — dark studio void, glowing answer panels, gold prize text, that whole hot seat feel.
+The look is modeled after Kaun Banega Crorepati dark studio void, glowing answer panels, gold prize text, that whole hot seat feel.
 
 ## How to build and run
 
@@ -18,18 +18,18 @@ You'll need Visual Studio 2022 (or later) with the C++ desktop workload installe
 
 1. Clone the repo
 2. Open `HotSeat.sln` in Visual Studio
-3. Make sure Raylib is linked (the project expects Raylib headers and libs in the standard include/lib paths — see Raylib's [Visual Studio setup guide](https://github.com/raysan5/raylib/wiki/Working-on-Windows) if you haven't done this before)
+3. Make sure Raylib is linked (the project expects Raylib headers and libs in the standard include/lib paths see Raylib's [Visual Studio setup guide](https://github.com/raysan5/raylib/wiki/Working-on-Windows) if you haven't done this before)
 4. Build and run (F5)
 
 The game looks for `questions_bank.txt` in the working directory at startup. If it's missing, you'll get an error screen. The file ships with the repo.
 
 ## Game modes
 
-**Classic** — The standard 15-question format. Prize amounts go from $100 up to $1,000,000, with safe havens at question 5 ($1,000) and question 10 ($32,000). Answer wrong and you drop to the last safe haven you passed. You can walk away at any time and keep what you've earned.
+**Classic** - The standard 15-question format. Prize amounts go from $100 up to $1,000,000, with safe havens at question 5 ($1,000) and question 10 ($32,000). Answer wrong and you drop to the last safe haven you passed. You can walk away at any time and keep what you've earned.
 
-**Speed** — Same structure, but each question has a 30-second timer. Run out of time and it counts as a wrong answer. Adds pressure, especially on the harder questions where you actually need to think.
+**Speed** - Same structure, but each question has a 30-second timer. Run out of time and it counts as a wrong answer. Adds pressure, especially on the harder questions where you actually need to think.
 
-**Practice** — No prize tracking, no consequences. Questions keep coming and you can use it to learn the question bank or just mess around without stakes.
+**Practice** - No prize tracking, no consequences. Questions keep coming and you can use it to learn the question bank or just mess around without stakes.
 
 ## Lifelines
 
@@ -125,7 +125,7 @@ Everything is mouse-driven. Click answer panels to select, click lifeline icons 
 ## Technical highlights
 
 - **Data structures**: `std::map<int, vector<Question>>` for O(log n) difficulty-tier lookups, `std::stack` for prize ladder state tracking, `std::vector` with custom sorting for leaderboard management, `std::map<string, PlayerStats>` for player registry
-- **File I/O**: Pipe-delimited question bank parser, CSV high score persistence, session logging — all wrapped in exception handling with graceful recovery
+- **File I/O**: Pipe-delimited question bank parser, CSV high score persistence, session logging, all wrapped in exception handling with graceful recovery
 - **Architecture**: Clean backend/frontend separation. Game logic compiles independently of Raylib. Screen state machine with Enter/Exit/Update/Draw lifecycle
 - **Error handling**: try-catch around all I/O paths. Malformed data, missing files, and invalid input are caught and surfaced as in-app error states, never crashes
 
