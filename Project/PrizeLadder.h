@@ -6,8 +6,8 @@
 class PrizeLadder
 {
 private:
-	static constexpr int _FIRST_SAFE_HAVEN = 4; // index
-	static constexpr int _SECOND_SAFE_HAVEN = 9;
+	static constexpr int _FIRST_SAFE_HAVEN = 5; 
+	static constexpr int _SECOND_SAFE_HAVEN = 10;
 
 	std::stack<int> m_PlayerProgressionLadder;
 	std::array<int, 15> m_PrizeAmounts{100, 200, 300, 500, 1000, 2000, 4000, 8000, 16000, 32000, 64000, 125000, 250000, 500000, 1000000};

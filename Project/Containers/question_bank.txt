@@ -1,0 +1,287 @@
+1|What color are bananas when they are ripe?|Yellow|Blue|Red|Green|A|General Knowledge
+1|How many legs does a dog have?|2|4|6|8|B|Biology
+1|Which shape has three sides?|Circle|Rectangle|Triangle|Square|C|Mathematics
+1|What do you use to write on a blackboard?|Pencil|Pen|Crayon|Chalk|D|General Knowledge
+1|In which direction does the sun rise?|East|North|South|West|A|Geography
+1|What is the freezing point of water?|50°C|-10°C|100°C|0°C|D|Science
+1|How many days are in a week?|6|7|5|8|B|General Knowledge
+1|What is the first letter of the English alphabet?|B|Z|A|D|C|Language
+1|Which animal is known as man's best friend?|Dog|Cat|Parrot|Horse|A|General Knowledge
+1|What color is the sky on a clear day?|Red|White|Blue|Green|C|General Knowledge
+1|How many fingers does a human hand have?|3|5|4|6|B|Biology
+1|Which fruit is red and grows on trees?|Orange|Banana|Grape|Apple|D|General Knowledge
+1|What is 2 + 2?|2|3|4|5|C|Mathematics
+1|Which season comes after winter?|Spring|Autumn|Monsoon|Summer|A|General Knowledge
+1|What sound does a cat make?|Bark|Meow|Moo|Quack|B|General Knowledge
+1|How many days are there in a week?|5|6|7|8|C|General Knowledge
+1|Which animal says “meow”?|Dog|Cat|Cow|Horse|B|Animals
+1|Which fruit is typically red?|Banana|Apple|Grapes|Orange|B|Food
+2|What planet is known as the Red Planet?|Saturn|Venus|Jupiter|Mars|D|Astronomy
+2|Which ocean is the largest?|Atlantic|Pacific|Indian|Arctic|B|Geography
+2|How many months have 31 days?|7|6|5|8|A|General Knowledge
+2|Which gas do plants absorb from the atmosphere?|Nitrogen|Oxygen|Hydrogen|Carbon Dioxide|D|Science
+2|Who wrote the play Romeo and Juliet?|Mark Twain|Jane Austen|William Shakespeare|Charles Dickens|C|Literature
+2|What is the national animal of India?|Lion|Peacock|Elephant|Bengal Tiger|D|General Knowledge
+2|How many continents are there on Earth?|7|5|6|8|A|Geography
+2|What is the boiling point of water at sea level?|50°C|100°C|200°C|150°C|B|Science
+2|Which country is known as the Land of the Rising Sun?|China|South Korea|Japan|Thailand|C|Geography
+2|What is the largest mammal on Earth?|Giraffe|Blue Whale|Elephant|Hippopotamus|B|Biology
+2|In which sport do you hit a shuttlecock?|Baseball|Cricket|Badminton|Tennis|C|Sports
+2|What is the chemical symbol for water?|O2|CO2|NaCl|H2O|D|Science
+2|How many sides does a hexagon have?|6|7|8|5|A|Mathematics
+2|Which instrument has black and white keys?|Guitar|Drums|Piano|Violin|C|Music
+2|What is baby frog called?|Kitten|Puppy|Cub|Tadpole|D|Biology
+2|Which planet is known as the Red Planet?|Earth|Mars|Jupiter|Venus|B|Science
+2|Which instrument has keys, pedals, and strings?|Guitar|Piano|Drum|Violin|B|Music
+2|What is H2O commonly known as?|Oxygen|Hydrogen|Water|Salt|C|Science
+2|Which sport uses a bat and ball?|Football|Basketball|Cricket|Hockey|C|Sports
+3|Which country gifted the Statue of Liberty to the USA?|France|United Kingdom|Germany|Spain|A|History
+3|What is the hardest natural substance on Earth?|Gold|Diamond|Iron|Platinum|B|Science
+3|What is the smallest prime number?|0|2|1|3|B|Mathematics
+3|Which organ pumps blood through the human body?|Heart|Lungs|Liver|Brain|A|Biology
+3|Who painted the Mona Lisa?|Michelangelo|Raphael|Donatello|Leonardo da Vinci|D|Art
+3|What does the acronym NASA stand for?|North American Space Agency|National Association of Space Astronauts|National Aeronautics and Space Administration|New Aeronautics and Space Alliance|C|Technology
+3|In which continent is the Sahara Desert located?|South America|Australia|Asia|Africa|D|Geography
+3|What is the capital of Australia?|Canberra|Melbourne|Perth|Sydney|A|Geography
+3|How many players are on a standard soccer team on the field?|10|12|11|9|C|Sports
+3|Which vitamin is primarily obtained from sunlight?|Vitamin B|Vitamin D|Vitamin A|Vitamin C|B|Health
+3|What is the largest organ of the human body?|Heart|Brain|Skin|Liver|C|Biology
+3|Which element has the chemical symbol Fe?|Francium|Fluorine|Fermium|Iron|D|Chemistry
+3|How many strings does a standard guitar have?|5|6|4|7|B|Music
+3|What is the tallest mountain in the world?|Mount Everest|K2|Kangchenjunga|Lhotse|A|Geography
+3|Which blood type is known as the universal donor?|A+|O-|AB+|B+|B|Health
+3|Who wrote “Romeo and Juliet”?|Charles Dickens|William Shakespeare|Mark Twain|Jane Austen|B|Literature
+3|Which country is famous for the Eiffel Tower?|Italy|Spain|France|Germany|C|Geography
+3|What is the largest ocean on Earth?|Atlantic|Indian|Pacific|Arctic|C|Geography
+4|What is the chemical formula for table salt?|CaCO3|NaOH|KCl|NaCl|D|Chemistry
+4|Who discovered penicillin?|Alexander Fleming|Louis Pasteur|Joseph Lister|Robert Koch|A|Science
+4|What is the speed of light approximately?|600,000 km/s|150,000 km/s|300,000 km/s|100,000 km/s|C|Physics
+4|Which country has the longest coastline in the world?|Russia|Canada|Australia|Indonesia|B|Geography
+4|In Roman numerals, what does XIV represent?|15|16|12|14|D|Mathematics
+4|Who is known as the Father of Computers?|John von Neumann|Alan Turing|Charles Babbage|Blaise Pascal|C|Technology
+4|What is the largest desert in the world?|Antarctic Desert|Kalahari|Sahara|Gobi|A|Geography
+4|Which planet has the most moons?|Jupiter|Saturn|Uranus|Neptune|B|Astronomy
+4|What gas makes up approximately 78% of Earth's atmosphere?|Carbon Dioxide|Argon|Oxygen|Nitrogen|D|Science
+4|In what year did World War I begin?|1916|1918|1914|1912|C|History
+4|Which bone is the longest in the human body?|Femur|Tibia|Fibula|Humerus|A|Biology
+4|What is the currency of Japan?|Yuan|Yen|Won|Ringgit|B|General Knowledge
+4|Who wrote the theory of relativity?|Albert Einstein|Isaac Newton|Max Planck|Niels Bohr|A|Science
+4|What is the pH value of pure water?|6|5|8|7|D|Chemistry
+4|Which river is the longest in the world?|Amazon|Mississippi|Nile|Yangtze|C|Geography
+4|Who developed the theory of relativity?|Isaac Newton|Albert Einstein|Galileo Galilei|Nikola Tesla|B|Science
+4|Which is the longest river in the world?|Amazon|Nile|Yangtze|Mississippi|B|Geography
+4|Which element has the chemical symbol “Au”?|Silver|Gold|Copper|Iron|B|Science
+4|Who was the first President of the United States?|Abraham Lincoln|Thomas Jefferson|George Washington|John Adams|C|History
+5|What is the powerhouse of the cell?|Mitochondria|Nucleus|Ribosome|Golgi Apparatus|A|Biology
+5|Which treaty ended World War I?|Treaty of Ghent|Treaty of Versailles|Treaty of Tordesillas|Treaty of Paris|B|History
+5|In computing, what does CPU stand for?|Core Processing Unit|Computer Personal Unit|Central Processing Unit|Central Program Utility|C|Technology
+5|What element has the atomic number 79?|Platinum|Silver|Copper|Gold|D|Chemistry
+5|Who composed the Four Seasons?|Bach|Vivaldi|Beethoven|Mozart|B|Music
+5|What is the largest lake by surface area in the world?|Lake Victoria|Lake Baikal|Caspian Sea|Lake Superior|C|Geography
+5|Which country was the first to grant women the right to vote?|UK|Australia|USA|New Zealand|D|History
+5|What is the square root of 144?|12|10|11|14|A|Mathematics
+5|Which organ in the human body produces insulin?|Kidney|Liver|Spleen|Pancreas|D|Biology
+5|Who painted the ceiling of the Sistine Chapel?|Caravaggio|Michelangelo|Raphael|Leonardo da Vinci|B|Art
+5|What is the most abundant element in the universe?|Hydrogen|Oxygen|Carbon|Helium|A|Science
+5|In which year did the Berlin Wall fall?|1987|1988|1989|1990|C|History
+5|What does DNA stand for?|Dinitrogen Acid|Dinucleic Amino Acid|Deoxynitrate Acid|Deoxyribonucleic Acid|D|Biology
+5|Which planet is closest to the Sun?|Mars|Venus|Mercury|Earth|C|Astronomy
+5|What is the SI unit of electric current?|Ampere|Ohm|Volt|Watt|A|Physics
+5|Which year did World War II end?|1943|1944|1945|1946|C|History
+5|Which scientist proposed the three laws of motion?|Einstein|Newton|Bohr|Faraday|B|Science
+5|Which language has the most native speakers worldwide?|English|Hindi|Spanish|Mandarin Chinese|D|Language
+5|What is the value of Pi (approx)?|2.14|3.14|4.13|3.41|B|Math
+6|What is the chemical symbol for potassium?|Po|K|Ka|Pt|B|Chemistry
+6|Which civilization built Machu Picchu?|Maya|Inca|Olmec|Aztec|B|History
+6|What is the term for a word that reads the same forwards and backwards?|Palindrome|Anagram|Homophone|Synonym|A|Language
+6|In physics, what is the unit of force?|Watt|Joule|Pascal|Newton|D|Physics
+6|Who wrote 1984?|H.G. Wells|Aldous Huxley|George Orwell|Ray Bradbury|C|Literature
+6|Which country has the most official languages?|Zimbabwe|Bolivia|India|South Africa|A|Geography
+6|What is the value of Pi to two decimal places?|3.12|3.14|3.16|3.18|B|Mathematics
+6|Which blood cells are responsible for fighting infections?|Platelets|Plasma cells|Red blood cells|White blood cells|D|Biology
+6|In which city was the United Nations headquartered?|Geneva|Paris|New York City|London|C|General Knowledge
+6|What is the process by which plants make food using sunlight?|Osmosis|Photosynthesis|Respiration|Fermentation|B|Biology
+6|Who discovered gravity after reportedly watching an apple fall?|Einstein|Galileo|Newton|Kepler|C|Science
+6|What is the capital of Canada?|Toronto|Montreal|Vancouver|Ottawa|D|Geography
+6|Which amendment to the US Constitution abolished slavery?|13th|12th|15th|14th|A|History
+6|What is the main component of natural gas?|Butane|Methane|Propane|Ethane|B|Chemistry
+6|In music, how many notes are in an octave?|7|12|6|8|D|Music
+6|Which country hosted the 2016 Olympics?|China|Brazil|UK|Russia|B|Sports
+6|What is the freezing point of water in Celsius?|0|32|-1|100|A|Science
+6|Which is the smallest prime number?|0|1|2|3|C|Math
+6|Which continent is Egypt in?|Asia|Africa|Europe|Australia|B|Geography
+7|What is the Mohs hardness of quartz?|7|8|5|6|A|Geology
+7|Which country's flag features a maple leaf?|USA|New Zealand|Canada|Japan|C|Geography
+7|What programming language was created by Bjarne Stroustrup?|Python|C++|C#|Java|B|Technology
+7|What is the largest gland in the human body?|Pancreas|Pituitary|Thyroid|Liver|D|Biology
+7|In which battle did Napoleon face his final defeat?|Battle of Waterloo|Battle of Austerlitz|Battle of Leipzig|Battle of Trafalgar|A|History
+7|What is the atomic number of carbon?|8|4|6|12|C|Chemistry
+7|Who formulated the three laws of motion?|Albert Einstein|Galileo Galilei|Johannes Kepler|Isaac Newton|D|Physics
+7|Which philosopher wrote The Republic?|Aristotle|Plato|Socrates|Pythagoras|B|Philosophy
+7|What is the smallest country in the world by area?|Vatican City|Liechtenstein|San Marino|Monaco|A|Geography
+7|Which layer of Earth's atmosphere contains the ozone layer?|Troposphere|Thermosphere|Stratosphere|Mesosphere|C|Science
+7|What is the half-life of Carbon-14 approximately?|2,730 years|11,460 years|1,200 years|5,730 years|D|Science
+7|In economics, what does GDP stand for?|Gross Domestic Product|Gross Development Percentage|General Development Plan|Global Distribution Protocol|A|Economics
+7|Which instrument measures atmospheric pressure?|Anemometer|Barometer|Thermometer|Hygrometer|B|Science
+7|Who wrote The Art of War?|Lao Tzu|Confucius|Sun Tzu|Mencius|C|Literature
+7|What is the name of the longest bone in the arm?|Humerus|Scapula|Ulna|Radius|A|Biology
+7|Which organ pumps blood in the human body?|Liver|Brain|Heart|Lungs|C|Biology
+7|What is the capital of Japan?|Beijing|Seoul|Tokyo|Bangkok|C|Geography
+7|Who discovered gravity?|Newton|Einstein|Galileo|Darwin|A|Science
+7|Which metal is liquid at room temperature?|Iron|Mercury|Gold|Silver|B|Science
+7|What is 15 × 3?|30|45|50|60|B|Math
+8|What is the deepest point in the world's oceans?|Puerto Rico Trench|Java Trench|Mariana Trench|Tonga Trench|C|Geography
+8|Which scientist proposed the heliocentric model of the solar system?|Kepler|Galileo|Ptolemy|Copernicus|D|Science
+8|What is the only metal that is liquid at room temperature?|Caesium|Mercury|Gallium|Bromine|B|Chemistry
+8|In which year was the Magna Carta signed?|1348|1215|1066|1453|B|History
+8|What is the longest river in Asia?|Yangtze|Yellow River|Mekong|Ganges|A|Geography
+8|Who developed the first successful polio vaccine?|Louis Pasteur|Albert Sabin|Edward Jenner|Jonas Salk|D|Medicine
+8|What is the escape velocity of Earth approximately?|15.0 km/s|7.9 km/s|11.2 km/s|9.8 km/s|C|Physics
+8|Which programming paradigm does Haskell primarily follow?|Logic|Procedural|Object-Oriented|Functional|D|Technology
+8|What is the Krebs cycle also known as?|Citric acid cycle|Electron transport chain|Calvin cycle|Urea cycle|A|Biology
+8|In which modern-day country was the ancient city of Carthage located?|Libya|Algeria|Tunisia|Morocco|C|History
+8|What is the most electronegative element?|Chlorine|Fluorine|Nitrogen|Oxygen|B|Chemistry
+8|Which composer became deaf later in life but continued composing?|Brahms|Beethoven|Chopin|Mozart|B|Music
+8|What does the Richter scale measure?|Wind speed|Sound intensity|Temperature|Earthquake magnitude|D|Science
+8|Who painted Starry Night?|Vincent van Gogh|Claude Monet|Paul Cézanne|Edgar Degas|A|Art
+8|What is the capital of Mongolia?|Tashkent|Bishkek|Ulaanbaatar|Astana|C|Geography
+8|Which is the largest desert in the world?|Sahara|Gobi|Arctic|Kalahari|C|Geography
+8|Who wrote “Harry Potter”?|J.R.R. Tolkien|J.K. Rowling|C.S. Lewis|George Martin|B|Literature
+8|Which blood type is known as universal donor?|A|B|O negative|AB|C|Biology
+8|Which element is needed for breathing?|Carbon|Oxygen|Nitrogen|Hydrogen|B|Science
+9|What is the second most abundant element in Earth's crust?|Iron|Aluminum|Silicon|Oxygen|C|Chemistry
+9|Who proposed the uncertainty principle in quantum mechanics?|Dirac|Heisenberg|Schrödinger|Bohr|B|Physics
+9|In which year was the first programmable computer, the Z3, completed?|1945|1949|1936|1941|D|Technology
+9|What is the name of the process where atomic nuclei combine to form heavier nuclei?|Fusion|Ionization|Fission|Decay|A|Physics
+9|Which empire was ruled by Suleiman the Magnificent?|Ottoman Empire|Persian Empire|Byzantine Empire|Mughal Empire|A|History
+9|What is the approximate age of the Earth?|3.5 billion years|6.5 billion years|5.5 billion years|4.5 billion years|D|Science
+9|Which vitamin deficiency causes scurvy?|Vitamin B12|Vitamin C|Vitamin A|Vitamin D|B|Health
+9|What is the capital of Bhutan?|Dhaka|Colombo|Thimphu|Kathmandu|C|Geography
+9|In graph theory, what is a graph with no cycles called?|Bipartite graph|Planar graph|Tree|Complete graph|C|Mathematics
+9|Who wrote One Hundred Years of Solitude?|Jorge Luis Borges|Gabriel García Márquez|Pablo Neruda|Isabel Allende|B|Literature
+9|What is the SI unit of luminous intensity?|Lux|Nit|Lumen|Candela|D|Physics
+9|Which treaty established the European Economic Community in 1957?|Treaty of Rome|Treaty of Paris|Treaty of Lisbon|Treaty of Maastricht|A|History
+9|What type of bond involves the sharing of electron pairs between atoms?|Hydrogen bond|Metallic bond|Covalent bond|Ionic bond|C|Chemistry
+9|In which organ does the majority of nutrient absorption occur?|Small intestine|Esophagus|Stomach|Large intestine|A|Biology
+9|What is the name of Saturn's largest moon?|Ganymede|Callisto|Europa|Titan|D|Astronomy
+9|What is the capital of Turkey?|Istanbul|Ankara|Izmir|Antalya|B|Geography
+9|Which scientist discovered penicillin?|Fleming|Curie|Pasteur|Darwin|A|Science
+9|Which year did India gain independence?|1945|1946|1947|1948|C|History
+9|Which gas is most abundant in Earth's atmosphere?|Oxygen|Nitrogen|CO2|Hydrogen|B|Science
+10|What is the Chandrasekhar limit approximately equal to?|0.5 solar masses|1.4 solar masses|2.0 solar masses|1.0 solar masses|B|Astrophysics
+10|Who is credited with developing the first practical telephone?|Nikola Tesla|Guglielmo Marconi|Thomas Edison|Alexander Graham Bell|D|Technology
+10|What is the rarest blood type among humans?|AB-|O-|A-|B-|A|Health
+10|In which modern country is the ancient city of Persepolis?|Afghanistan|Iran|Turkey|Iraq|B|History
+10|What is the name of the effect where light bends around a massive object?|Doppler Effect|Compton Effect|Gravitational Lensing|Photoelectric Effect|C|Physics
+10|Which mathematician is known for his Last Theorem, proved in 1995?|Riemann|Gauss|Fermat|Euler|C|Mathematics
+10|What is the deepest lake in the world?|Lake Tanganyika|Lake Baikal|Lake Superior|Caspian Sea|B|Geography
+10|In molecular biology, what enzyme unwinds DNA during replication?|RNA Polymerase|DNA Polymerase|Ligase|Helicase|D|Biology
+10|Who wrote the epic poem Paradise Lost?|John Milton|Edmund Spenser|Geoffrey Chaucer|William Blake|A|Literature
+10|What is the name for the study of fungi?|Mycology|Entomology|Virology|Botany|A|Science
+10|In which battle did the 300 Spartans famously fight?|Battle of Salamis|Battle of Marathon|Battle of Thermopylae|Battle of Plataea|C|History
+10|What phenomenon explains why moving clocks run slower?|Frame dragging|Length contraction|Mass-energy equivalence|Time dilation|D|Physics
+10|Which acid is found in car batteries?|Hydrochloric acid|Sulfuric acid|Nitric acid|Phosphoric acid|B|Chemistry
+10|What is the name of the first artificial satellite launched into space?|Explorer 1|Vanguard 1|Sputnik 1|Luna 1|C|History
+10|In computer science, what does the P vs NP problem ask?|Whether parallel computing equals normal computing|Whether every problem whose solution can be verified quickly can also be solved quickly|Whether prime numbers are infinite|Whether programming languages are equivalent|B|Technology
+10|Which Mughal emperor built the Taj Mahal?|Akbar|Babur|Shah Jahan|Aurangzeb|C|History
+10|What is the hardest natural substance?|Gold|Iron|Diamond|Silver|C|Science
+10|Which river flows through London?|Seine|Thames|Danube|Rhine|B|Geography
+10|Which country has the most population?|India|USA|China|Indonesia|C|Geography
+11|What is the Planck length approximately?|1.6 × 10⁻³⁵ m|1.6 × 10⁻²⁵ m|1.6 × 10⁻¹⁵ m|1.6 × 10⁻⁴⁵ m|A|Physics
+11|Who discovered the structure of DNA using X-ray crystallography data?|Maurice Wilkins|Linus Pauling|Rosalind Franklin|Watson and Crick|D|Science
+11|What is the only country to have a non-rectangular national flag?|Switzerland|Bhutan|Nepal|Vatican City|C|Geography
+11|In computing, what does RISC stand for?|Revised Instruction Set Code|Reduced Instruction Set Computer|Rapid Instruction Set Computing|Random Instruction Set Configuration|B|Technology
+11|What is the Coriolis effect primarily caused by?|Ocean currents|Moon's gravity|Solar wind|Earth's rotation|D|Physics
+11|Which element has the highest melting point?|Tungsten|Osmium|Rhenium|Tantalum|A|Chemistry
+11|What was the codename for the Allied invasion of Normandy?|Operation Barbarossa|Operation Overlord|Operation Torch|Operation Market Garden|B|History
+11|In music theory, what interval is known as the devil's interval?|Minor second|Diminished seventh|Major seventh|Augmented fourth|D|Music
+11|Who formulated the incompleteness theorems?|David Hilbert|Bertrand Russell|Kurt Gödel|Alan Turing|C|Mathematics
+11|What is the most common isotope of uranium used in nuclear reactors?|U-235|U-233|U-234|U-238|A|Physics
+11|Which philosopher coined the term categorical imperative?|Schopenhauer|Kant|Nietzsche|Hegel|B|Philosophy
+11|What is the name of the boundary between Earth's crust and mantle?|Mohorovičić Discontinuity|Lehmann Discontinuity|Conrad Discontinuity|Gutenberg Discontinuity|A|Geology
+11|In genetics, what is the term for a section of DNA that does not code for proteins?|Codon|Operon|Exon|Intron|D|Biology
+11|What is the Schwarzschild radius?|The radius of a white dwarf|The radius of a neutron star|The event horizon radius of a black hole|The core radius of a red giant|C|Astrophysics
+11|Which Byzantine emperor codified Roman law into the Corpus Juris Civilis?|Heraclius|Constantine I|Theodosius I|Justinian I|D|History
+11|Which vitamin is produced in sunlight?|A|B|C|D|D|Biology
+11|Which war was fought between North and South USA?|WW1|WW2|Civil War|Cold War|C|History
+11|What is the SI unit of force?|Joule|Newton|Pascal|Watt|B|Physics
+11|Who was the first man on the Moon?|Armstrong|Aldrin|Gagarin|Collins|A|Space
+11|Which is the largest island?|Greenland|Australia|Borneo|Madagascar|A|Geography
+12|What is the only letter that does not appear in any US state name?|Q|X|J|Z|A|General Knowledge
+12|In quantum computing, what is the fundamental unit of information called?|Byte|Qubit|Qubyte|Bit|B|Technology
+12|Which mathematical constant is represented by the Greek letter tau and equals approximately 6.28?|Golden ratio|Pi doubled|Tau|Euler's number|C|Mathematics
+12|What is the Mpemba effect?|Hot water can freeze faster than cold water|Cold water freezes slower than warm water|Ice melts faster in saltwater|Steam condenses faster at altitude|A|Physics
+12|In Norse mythology, what is the name of the world tree?|Midgard|Yggdrasil|Bifrost|Valhalla|B|Mythology
+12|Which protein is responsible for oxygen transport in human blood?|Fibrinogen|Myoglobin|Albumin|Hemoglobin|D|Biology
+12|What is the Dunning-Kruger effect?|A phenomenon in group decision-making|A type of optical illusion|A cognitive bias where unskilled individuals overestimate their ability|A theory about memory formation|C|Psychology
+12|In which year was the first transatlantic telegraph cable successfully laid?|1851|1858|1876|1866|D|History
+12|What is the name of the hypothetical particle that mediates gravity?|Higgs boson|Graviton|Photon|Gluon|B|Physics
+12|Which ancient library was one of the largest in the ancient world?|Library of Ashurbanipal|Library of Pergamum|Library of Alexandria|Library of Celsus|C|History
+12|What is the term for the minimum energy needed to start a chemical reaction?|Activation energy|Kinetic energy|Binding energy|Ionization energy|A|Chemistry
+12|In cryptography, what does RSA stand for?|Rivest-Shamir-Adleman|Random Security Algorithm|Regional Signal Authentication|Recursive Symmetric Architecture|A|Technology
+12|Who proposed the concept of falsifiability as a criterion for scientific theories?|Thomas Kuhn|Karl Popper|Paul Feyerabend|Imre Lakatos|B|Philosophy
+12|What is the lightest element that has no stable isotopes?|Promethium|Astatine|Francium|Technetium|D|Chemistry
+12|Which sea creature has three hearts?|Jellyfish|Squid|Octopus|Starfish|C|Biology
+12|Which country invented paper?|India|China|Egypt|Greece|B|History
+12|What is the capital of Norway?|Oslo|Stockholm|Copenhagen|Helsinki|A|Geography
+12|Which element has atomic number 1?|Oxygen|Hydrogen|Helium|Carbon|B|Science
+12|Who wrote “The Odyssey”?|Homer|Virgil|Plato|Aristotle|A|Literature
+12|Which organ detoxifies chemicals in the body?|Kidney|Heart|Liver|Lungs|C|Biology
+13|What is the Karman line altitude that defines the boundary of space?|80 km|120 km|50 km|100 km|D|Astronomy
+13|In compiler design, what does the term lexical analysis refer to?|Building syntax trees|Optimizing machine code|Converting source code into tokens|Allocating memory registers|C|Technology
+13|Which radioactive element was named after the home country of Marie Curie?|Curium|Polonium|Francium|Radium|B|Chemistry
+13|What is the name of the mathematical conjecture about prime numbers involving twin primes?|Twin Prime Conjecture|Riemann Hypothesis|Collatz Conjecture|Goldbach Conjecture|A|Mathematics
+13|In which year did the Byzantine Empire officially fall?|1492|1453|1204|1389|B|History
+13|What is a Bose-Einstein condensate?|A type of plasma|A quantum computing architecture|A theoretical particle|A state of matter at near absolute zero|D|Physics
+13|Who wrote the philosophical work Being and Time?|Edmund Husserl|Jean-Paul Sartre|Martin Heidegger|Friedrich Nietzsche|C|Philosophy
+13|What is the name of the enzyme that adds nucleotides during DNA replication?|DNA Polymerase III|Topoisomerase|Helicase|Primase|A|Biology
+13|In networking, what layer of the OSI model does TCP operate at?|Layer 3|Layer 6|Layer 5|Layer 4|D|Technology
+13|Which ancient script, found on the Rosetta Stone, helped decode Egyptian hieroglyphics?|Linear B|Demotic|Cuneiform|Phoenician|B|History
+13|What is the Chandrasekhar-Eddington limit related to?|Minimum temperature for plasma|Maximum rotation speed|Maximum luminosity of a star|Minimum mass for fusion|C|Astrophysics
+13|In graph theory, what is the chromatic number of a planar graph at most?|4|6|3|5|A|Mathematics
+13|What is the phenomenon where a particle and antiparticle appear briefly from vacuum called?|Hawking radiation|Virtual pair production|Zero-point oscillation|Quantum tunneling|B|Physics
+13|Which hormone is primarily responsible for regulating circadian rhythms?|Dopamine|Cortisol|Serotonin|Melatonin|D|Biology
+13|What is the name of the first known algorithm, attributed to ancient Mesopotamia?|Euclidean algorithm|Sieve of Eratosthenes|Babylonian method for square roots|Archimedes method|C|Mathematics
+13|What is the capital of Iceland?|Reykjavik|Oslo|Helsinki|Dublin|A|Geography
+13|Which gas causes acid rain?|CO2|SO2|O2|N2|B|Science
+13|Who developed the polio vaccine?|Salk|Pasteur|Fleming|Curie|A|Science
+13|Which planet rotates on its side?|Mars|Venus|Uranus|Neptune|C|Science
+14|What is the Kolmogorov complexity of a string?|The shortest program that produces the string|The number of unique characters|The length of the string|The encryption key length|A|Computer Science
+14|In particle physics, what is the spin of the Higgs boson?|1/2|0|1|2|B|Physics
+14|Which treaty ended the Thirty Years War in 1648?|Peace of Westphalia|Congress of Vienna|Treaty of Utrecht|Treaty of Tordesillas|A|History
+14|What is the name of the effect where entangled particles influence each other instantaneously?|Quantum decoherence|Quantum superposition|Quantum tunneling|Quantum nonlocality|D|Physics
+14|In mathematics, what is the cardinality of the set of real numbers called?|Beth-one|Aleph-one|Continuum|Aleph-null|C|Mathematics
+14|What is the Bekenstein-Hawking entropy formula proportional to?|Volume of a black hole|Angular momentum|Surface area of event horizon|Mass of singularity|C|Physics
+14|Which ancient civilization first used the concept of zero as a number?|Indian|Greek|Chinese|Babylonian|A|Mathematics
+14|In biochemistry, what is the wobble hypothesis related to?|Enzyme kinetics|Codon-anticodon pairing|Protein folding|DNA methylation|B|Biology
+14|What is the name of the mathematical proof technique that shows something exists without constructing it?|Proof by exhaustion|Proof by contradiction|Constructive proof|Non-constructive proof|D|Mathematics
+14|Which physicist proposed the many-worlds interpretation of quantum mechanics?|Hugh Everett III|John Bell|David Bohm|Richard Feynman|A|Physics
+14|What is the Sapir-Whorf hypothesis about?|Origin of writing systems|Language influencing thought and perception|Universal grammar|Evolution of language|B|Linguistics
+14|In computer science, what is the time complexity of the best known matrix multiplication algorithm approximately?|O(n^2.5)|O(n²)|O(n^2.37)|O(n³)|C|Computer Science
+14|What is the name of the hypothetical boundary surrounding a star beyond which a civilization could capture all its energy?|Oort Cloud|Fermi Bubble|Kardashev Shell|Dyson Sphere|D|Astrophysics
+14|Which protein complex is responsible for ATP synthesis in mitochondria?|Complex III|Complex I|Cytochrome c|ATP Synthase|D|Biology
+14|In music, what tuning system divides the octave into 12 equal parts?|Just intonation|Equal temperament|Pythagorean tuning|Meantone temperament|B|Music
+14|Which mathematician proved Fermat’s Last Theorem?|Newton|Euler|Andrew Wiles|Gauss|C|Math
+14|Which empire was ruled by Genghis Khan?|Roman|Ottoman|Mongol|Persian|C|History
+14|Which scientist discovered radioactivity?|Curie|Einstein|Bohr|Tesla|A|Science
+14|Which is the deepest ocean trench?|Mariana|Java|Peru|Tonga|A|Geography
+15|What is the significance of Ramanujan's number 1729?|Smallest taxicab number|Largest Mersenne prime under 2000|Smallest Carmichael number|Smallest perfect number|A|Mathematics
+15|In quantum field theory, what does renormalization address?|Quantum entanglement|Particle decay rates|Infinite quantities in calculations|Wave function collapse|C|Physics
+15|What is the Langlands program in mathematics primarily concerned with?|Topology of manifolds|Differential equations|Prime number distribution|Connections between number theory and geometry|D|Mathematics
+15|Which enzyme is responsible for adding telomeric repeats to chromosome ends?|Telomerase|Reverse transcriptase|DNA Polymerase|Topoisomerase II|A|Biology
+15|In computational complexity, what is the class of problems solvable in polynomial time with a nondeterministic Turing machine?|PSPACE|NP|P|EXPTIME|B|Computer Science
+15|What is the Casimir effect?|Repulsion of magnetic monopoles|Bending of light in strong fields|Attraction between uncharged parallel plates due to quantum fluctuations|Tunneling of electrons through barriers|C|Physics
+15|Who first proposed the concept of a universal Turing machine?|Alonzo Church|John von Neumann|Alan Turing|Claude Shannon|C|Computer Science
+15|What is the Banach-Tarski paradox about?|Infinite hotel rooms|Unprovable mathematical statements|Non-Euclidean geometry contradictions|Decomposing a sphere into pieces that reassemble into two identical spheres|D|Mathematics
+15|In astrophysics, what is the Tolman-Oppenheimer-Volkoff limit?|Maximum luminosity of a quasar|Maximum mass of a neutron star|Maximum mass of a white dwarf|Minimum mass of a black hole|B|Astrophysics
+15|What is the Church-Turing thesis?|Any effectively calculable function can be computed by a Turing machine|Formal systems are always complete|Quantum computers surpass classical computers|All computers are equivalent|A|Computer Science
+15|In organic chemistry, what is a Diels-Alder reaction?|An elimination reaction|A free radical polymerization|A cycloaddition reaction between a diene and dienophile|A nucleophilic substitution|C|Chemistry
+15|What is the Poincaré conjecture about?|Four-dimensional manifolds|Distribution of prime numbers|Topology of knots|Every simply connected closed 3-manifold is homeomorphic to a 3-sphere|D|Mathematics
+15|Which physicist developed the path integral formulation of quantum mechanics?|Richard Feynman|Murray Gell-Mann|Werner Heisenberg|Paul Dirac|A|Physics
+15|In cryptography, what problem does Shor's algorithm efficiently solve?|Discrete logarithm|Integer factorization|Traveling salesman|Graph coloring|B|Computer Science
+15|What is the holographic principle in theoretical physics?|The universe is a simulation|Spacetime is quantized|Information in a volume can be described by data on its boundary|Light behaves as both wave and particle|C|Physics
+15|Which Indian state has the longest coastline?|Gujarat|Tamil Nadu|Maharashtra|Andhra Pradesh|A|Geography
+15|Who was the first Governor-General of independent India?|Nehru|Rajagopalachari|Mountbatten|Patel|C|History
+15|Which particle has no electric charge?|Electron|Proton|Neutron|Photon|C|Physics
+15|What is the capital of Kazakhstan?|Astana|Almaty|Tashkent|Baku|A|Geography
+15|Which Indian classical dance originated in Kerala?|Kathak|Bharatanatyam|Kathakali|Odissi|C|Culture

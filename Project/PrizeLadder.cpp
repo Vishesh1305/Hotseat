@@ -27,10 +27,11 @@ bool PrizeLadder::IsAtSafeHaven() const
 	{
 		return false;
 	}
-	else if (m_PlayerProgressionLadder.top() == _FIRST_SAFE_HAVEN || m_PlayerProgressionLadder.top() == _SECOND_SAFE_HAVEN)
+	else if (m_PlayerProgressionLadder.top() == _FIRST_SAFE_HAVEN || m_PlayerProgressionLadder.top() == _SECOND_SAFE_HAVEN )
 	{
 		return true;
 	}
+	return false;
 }
 
 bool PrizeLadder::IsTheQuestionSafeHaven(int questionIndex) const
@@ -51,8 +52,33 @@ int PrizeLadder::MoveUpLadder(int questionIndex)
 	{
 		throw std::out_of_range("Question index is out of range.");
 	}
+
 	int prizeAmount = GetPrizeAmount(questionIndex);
 	m_PlayerProgressionLadder.push(questionIndex);
+
+	return prizeAmount;
+}
+
+int PrizeLadder::OnWrongAnswer()
+{
+	if (m_PlayerProgressionLadder.empty())
+	{
+		return 0;
+	}
+	else if (m_PlayerProgressionLadder.top() >= _SECOND_SAFE_HAVEN)
+	{
+		ResetLadder();
+		return GetPrizeAmount(_SECOND_SAFE_HAVEN);
+	}
+	else if (m_PlayerProgressionLadder.top() >= _FIRST_SAFE_HAVEN)
+	{
+		ResetLadder();
+		return GetPrizeAmount(_FIRST_SAFE_HAVEN);
+	}
+
+	ResetLadder();
+	return 0;
+
 }
 
 void PrizeLadder::DisplayThePrizeLadder() const

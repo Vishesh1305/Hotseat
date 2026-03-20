@@ -1,5 +1,6 @@
 # Visual Studio files
 .vs/
+.idea/
 *.VC.db
 *.VC.opendb
 *.suo
