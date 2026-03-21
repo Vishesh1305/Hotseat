@@ -3,16 +3,15 @@
 #include "LifelineEngine.h"
 #include <stdexcept>
 
-
-GameSession::GameSession(QuestionBank* InQuestionBank, Leaderboard* InLeaderboard, PlayerManager* InPlayerManager, std::string InPlayerName, GameMode InGameMode) 
-	: 
+GameSession::GameSession(QuestionBank* InQuestionBank, Leaderboard* InLeaderboard, PlayerManager* InPlayerManager, std::string InPlayerName, GameMode InGameMode)
+	:
 	m_gameState({}),
-	m_questionBank(InQuestionBank),     
+	m_questionBank(InQuestionBank),
 	m_prizeLadder({}),
-	m_leaderboard(InLeaderboard),       
-	m_playerManager(InPlayerManager),   
-	m_currentQuestion(nullptr),         
-	m_gameMode(InGameMode),             
+	m_leaderboard(InLeaderboard),
+	m_playerManager(InPlayerManager),
+	m_currentQuestion(nullptr),
+	m_gameMode(InGameMode),
 	m_playerName(std::move(InPlayerName)),
 	m_categoryResults()
 {
@@ -33,8 +32,9 @@ bool GameSession::SubmitAnswer(char InAnswer)
 	{
 		if (m_currentQuestion->IsCorrect(InAnswer))
 		{
-			m_gameState._currentPrizeAmount = m_prizeLadder.MoveUpLadder(m_gameState._questionNumber); //MoveUpLadder does literally move up the ladder by pushing it into the stack and also returns the updated prize
-			
+			if(m_gameMode != PRACTICE)
+				m_gameState._currentPrizeAmount = m_prizeLadder.MoveUpLadder(m_gameState._questionNumber);
+
 			auto it = m_categoryResults.find(m_currentQuestion->Category);
 			if (it == m_categoryResults.end())
 			{
@@ -42,24 +42,28 @@ bool GameSession::SubmitAnswer(char InAnswer)
 			}
 			else
 			{
-				it->second.first += 1;   
-				it->second.second += 1;  
+				it->second.first += 1;
+				it->second.second += 1;
 			}
 			m_gameState._questionNumber += 1;
 
-			if (m_gameState._questionNumber == 15)
+			if (m_gameState._questionNumber == 15 && m_gameMode != PRACTICE)
 			{
 				m_gameState._gameStatus = WON;
 				return true;
 			}
+
+			if (m_gameState._questionNumber > 15)
+			{
+				m_gameState._questionNumber = 1;
+			}
+
 			m_currentQuestion = m_questionBank->GetRandomQuestion(m_gameState._questionNumber);
 
 			return true;
 		}
 		else
 		{
-			m_gameState._currentPrizeAmount = m_prizeLadder.OnWrongAnswer();
-
 			auto it = m_categoryResults.find(m_currentQuestion->Category);
 			if (it == m_categoryResults.end())
 			{
@@ -69,8 +73,19 @@ bool GameSession::SubmitAnswer(char InAnswer)
 			{
 				it->second.second += 1;
 			}
-			m_gameState._gameStatus = LOST;
-			return false;
+
+			if (m_gameMode != PRACTICE)
+			{
+				m_gameState._currentPrizeAmount = m_prizeLadder.OnWrongAnswer();
+				m_gameState._gameStatus = LOST;
+				return false;
+			}
+			else
+			{
+				m_currentQuestion = m_questionBank->GetRandomQuestion(m_gameState._questionNumber);
+				m_gameState._currentQuestionText = m_currentQuestion->QuestionText;
+				return false;
+			}
 		}
 	}
 	throw std::invalid_argument("Invalid answer choice");
@@ -119,4 +134,3 @@ bool GameSession::IsGameOver() const
 	}
 	return false;
 }
-

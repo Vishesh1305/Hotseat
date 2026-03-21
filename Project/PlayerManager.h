@@ -21,4 +21,3 @@ public:
 	int StartingDifficulty(const std::string& InName) const;
 
 };
-

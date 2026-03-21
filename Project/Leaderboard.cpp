@@ -13,7 +13,6 @@ std::vector<ScoreEntry> Leaderboard::GetTheTop() const
 {
 	SortEntriesByPrize();
 
-	
 	size_t topCount = std::min<size_t>(10, m_scoresBoard.size());
 	return std::vector<ScoreEntry>(m_scoresBoard.begin(), m_scoresBoard.begin() + topCount);
 }
@@ -21,10 +20,10 @@ std::vector<ScoreEntry> Leaderboard::GetTheTop() const
 const void Leaderboard::DisplayTheLeaderboard() const
 {
 	std::vector<ScoreEntry> TopVec = GetTheTop();
-	
+
 	for (int i = 0; i < TopVec.size(); i++)
 	{
-		std::cout << "Player Name: " << TopVec.at(i)._playerName << " | " 
+		std::cout << "Player Name: " << TopVec.at(i)._playerName << " | "
 			<< "Questions Answered: " << TopVec.at(i)._questionsAnswered << " | "
 			<< "Prize: " << TopVec.at(i)._finalPrize << " | "
 			<< "Date: " << TopVec.at(i)._date << ".\n";
@@ -84,10 +83,9 @@ void Leaderboard::LoadScores(const std::string& InFilePath)
 
 void Leaderboard::SortEntriesByPrize() const
 {
-	std::sort(m_scoresBoard.begin(), m_scoresBoard.end(), [](const ScoreEntry& a, const ScoreEntry& b) 
+	std::sort(m_scoresBoard.begin(), m_scoresBoard.end(), [](const ScoreEntry& a, const ScoreEntry& b)
 		{
 			return a._finalPrize > b._finalPrize;
 		});
 
 }
-

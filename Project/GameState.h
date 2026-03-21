@@ -12,7 +12,6 @@ enum GameStatus : uint8_t
 struct GameState
 {
 
-
 	int _questionNumber;
 	int _currentPrizeAmount;
 	bool _fiftyFiftyUsed;
@@ -29,15 +28,15 @@ struct GameState
 			{
 				return "Playing";
 			}
-			case WON: 
+			case WON:
 			{
 				return "Won";
 			}
-			case LOST: 
+			case LOST:
 			{
 				return "Lost";
 			}
-			case WITHDRAWN: 
+			case WITHDRAWN:
 			{
 				return "Walked Away";
 			}
@@ -58,4 +57,3 @@ struct GameState
 	}
 
 };
-

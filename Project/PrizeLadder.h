@@ -6,7 +6,7 @@
 class PrizeLadder
 {
 private:
-	static constexpr int _FIRST_SAFE_HAVEN = 5; 
+	static constexpr int _FIRST_SAFE_HAVEN = 5;
 	static constexpr int _SECOND_SAFE_HAVEN = 10;
 
 	std::stack<int> m_PlayerProgressionLadder;
@@ -27,4 +27,3 @@ public:
 	void ResetLadder();
 
 };
-

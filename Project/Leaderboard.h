@@ -15,9 +15,9 @@ private:
 	mutable std::vector<ScoreEntry> m_scoresBoard;
 
 public:
-	
+
 	void AddScoreEntry(const ScoreEntry& InEntryToAdd);
-	std::vector<ScoreEntry> GetTheTop() const; 
+	std::vector<ScoreEntry> GetTheTop() const;
 	const void DisplayTheLeaderboard() const;
 	void SaveScoresToFile(const std::string& InFilePath);
 	void LoadScores(const std::string& InFilePath);
@@ -25,4 +25,3 @@ public:
 private:
 	void SortEntriesByPrize() const;
 };
-

@@ -73,7 +73,7 @@ AskTheAudienceResult LifelineEngine::AskTheAudience(const Question* ques)
 
 PhoneAFriendResult LifelineEngine::PhoneAFriend(const Question* ques)
 {
-	
+
 	int correctAnswerIndex = ques->LetterToIndex(ques->CorrectAnswer);
 
 	std::random_device rd;

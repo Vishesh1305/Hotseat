@@ -49,7 +49,7 @@ void PlayerManager::UpdatePlayerStats(const std::string& InName, const GameState
 	{
 		throw std::runtime_error("Player with that name doesn't exist!");
 	}
-	
+
 	PlayerStats& ref = m_players.at(InName);
 	ref._totalGamesPlayed += 1;
 	ref._totalWinnings += InGameState->_currentPrizeAmount;
@@ -67,7 +67,7 @@ void PlayerManager::UpdatePlayerStats(const std::string& InName, const GameState
 			ref._categoryPerformance.insert(std::make_pair(i.first, std::make_pair(i.second.first, i.second.second)));
 			continue;
 		}
-		
+
 		it->second.first += i.second.first;
 		it->second.second += i.second.second;
 	}
@@ -90,7 +90,7 @@ int PlayerManager::StartingDifficulty(const std::string& InName) const
 	if (m_players.at(InName)._totalGamesPlayed == 0) return 1;
 
 	int average = static_cast<int>(m_players.at(InName)._totalQuestionsAnswered / m_players.at(InName)._totalGamesPlayed);
-	
+
 	if (average <= 5)
 	{
 		return 1;
@@ -101,4 +101,3 @@ int PlayerManager::StartingDifficulty(const std::string& InName) const
 	}
 	return 10;
 }
-

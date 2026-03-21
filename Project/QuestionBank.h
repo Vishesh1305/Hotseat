@@ -19,4 +19,3 @@ public:
 private:
 	void PopulateMap(const std::string& InFileName);
 };
-

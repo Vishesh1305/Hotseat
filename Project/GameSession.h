@@ -33,7 +33,7 @@ private:
 
 public:
 	GameSession(QuestionBank* InQuestionBank, Leaderboard* InLeaderboard, PlayerManager* InPlayerManager, std::string InPlayerName, GameMode InGameMode);
-	
+
 	void StartGame();
 	bool SubmitAnswer(char InAnswer);
 

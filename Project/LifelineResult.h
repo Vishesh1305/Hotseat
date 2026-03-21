@@ -18,5 +18,5 @@ struct AskTheAudienceResult
 struct PhoneAFriendResult
 {
 	char _friendAnswer;
-	int _friendConfidence; 
+	int _friendConfidence;
 };

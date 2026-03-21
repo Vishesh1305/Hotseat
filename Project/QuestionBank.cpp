@@ -63,7 +63,7 @@ void QuestionBank::PopulateMap(const std::string& InFileName)
 			std::string answerD = parts[5];
 			char correctAnswer = parts[6][0];
 			std::string category = parts[7];
-			try 
+			try
 			{
 				 difficulty = std::stoi(parts[0]);
 			}
@@ -82,7 +82,7 @@ void QuestionBank::PopulateMap(const std::string& InFileName)
 
 			};
 			m_questionsByDifficulty[difficulty].push_back(question);
-			
+
 		}
 	}
 	file.close();
