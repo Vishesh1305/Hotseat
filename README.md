@@ -18,19 +18,19 @@ The game expects `Containers/question_bank.txt` and `Containers/high_scores.txt`
 
 ## Game modes
 
-**Classic** — 15 questions, prize ladder from $100 to $1,000,000. Safe havens at question 5 and 10. Wrong answer drops you to the last safe haven. Walk away anytime.
+**Classic**: 15 questions, prize ladder from $100 to $1,000,000. Safe havens at question 5 and 10. Wrong answer drops you to the last safe haven. Walk away anytime.
 
-**Speed** — Same as Classic but each question has a 30-second countdown. Time runs out, game ends.
+**Speed**: Same as Classic but each question has a 30-second countdown. Time runs out, game ends.
 
-**Practice** — Endless questions, no prize tracking, no penalty for wrong answers.
+**Practice**: Endless questions, no prize tracking, no penalty for wrong answers.
 
 ## Lifelines
 
 Three per game, each usable once:
 
-- **50:50** — eliminates two wrong answers
-- **Ask the Audience** — percentage poll weighted toward the correct answer
-- **Phone a Friend** — friend's suggestion with ~80% accuracy
+- **50:50**: eliminates two wrong answers
+- **Ask the Audience**: percentage poll weighted toward the correct answer
+- **Phone a Friend**: friend's suggestion with ~80% accuracy
 
 ## File formats
 
@@ -80,7 +80,7 @@ Mouse-driven. Click answer panels, click buttons, press [L] for lifelines, [W] t
 - `std::vector<ScoreEntry>` with custom sort for leaderboard
 - `std::map<string, PlayerStats>` for player registry
 - Pipe-delimited and CSV file parsing with exception handling
-- `try-catch` around all I/O — missing files, malformed data, and invalid input handled gracefully
+- `try-catch` around all I/O, missing files, malformed data, and invalid input handled gracefully
 - Three game modes with distinct behavior (timer, no-penalty, standard)
 - Answer reveal animation with stored question state to prevent race conditions
 
